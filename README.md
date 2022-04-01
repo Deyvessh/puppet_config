@@ -1,2 +1,2 @@
 # puppet_config
-puppet_r10k
+puppet_r10k_install
